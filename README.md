@@ -20,7 +20,6 @@
 - 🇾🇪 São-Paulino
 - 🎲 Fã de RPG de mesa
 
----
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -28,6 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;      
 </div>
+
 ---
 
 [![card](https://github-readme-stats.vercel.app/api?username=Ageursilva&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
