@@ -34,4 +34,4 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Ageursilva&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### **_Até mais e obrigado pelos peixes!_**  <img src="https://ehoradoshow.files.wordpress.com/2014/08/hitchhikers-guide-to-the-galaxy-logo.png" width = "25px">
+#### **_Até mais e obrigado pelos peixes!_**  <img src="guia.png" width = "25px">
