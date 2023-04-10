@@ -1,6 +1,6 @@
 <img src="Ageugit.jpg" width = "150px" align = "right">
 
-## 👽 Olá, bem vindo, pegue uma xicará de café e fique a vontade!
+## 👽 Olá, bem vindo, pegue uma caneca de café e fique a vontade!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/jos%C3%A9-ageu-rodrigues-da-silva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
