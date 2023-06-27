@@ -15,23 +15,10 @@
 
 ### Sou analista de sistemas, formado em Gestão da Tecnologia da Informação e pós-graduado em defesa cibernética ! 
 
-- 🧑🏽‍💻 _Analista de Sistemas_
-- 🖖🏽 _Treeker_
-- 🇾🇪 _São-Paulino_
-- 🎲 _Fã de RPG de mesa_
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;      
-</div>
-
 ---
 
 [![card](https://github-readme-stats.vercel.app/api?username=Ageursilva&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Ageursilva&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### **_Até mais e obrigado pelos peixes!_**  <img src="guia.png" width = "25px">
+#### **_Até mais e obrigado pelos peixes!_**  <img src="guia.png" width = "12px">
