@@ -1,6 +1,6 @@
 <img src="Ageugit.jpg" width = "150px" align = "right">
 
-## 👽 Olá, bem vindo, pegue uma caneca de café e fique a vontade!
+## 👽 Olá, bem vindo,fique a vontade!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/jos%C3%A9-ageu-rodrigues-da-silva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,12 +8,11 @@
   <a href = "https://instagram.com/ageursilva">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
    </a>
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
+
    
 </div>
 
-### Sou analista de sistemas, formado em Gestão da Tecnologia da Informação e pós-graduado em defesa cibernética ! 
+### Sou analista de sistemas, formado em Gestão da Tecnologia da Informação! 
 
 ---
 
