@@ -12,8 +12,6 @@
    
 </div>
 
-### Sou analista de sistemas, formado em Gestão da Tecnologia da Informação! 
-
 ---
 
 [![card](https://github-readme-stats.vercel.app/api?username=Ageursilva&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
