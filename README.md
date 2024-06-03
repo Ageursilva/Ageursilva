@@ -1,4 +1,3 @@
-<img src="Ageugit.jpg" width = "150px" align = "right">
 
 ## 👽 Olá, bem vindo,fique a vontade!
   <div id="badges">
