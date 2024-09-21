@@ -4,12 +4,12 @@
 Sou apaixonado por tecnologia e sempre em busca de aprender novas habilidades. Sou Analista de Suporte Técnico especializado em ERP na TOTVS, com ampla experiência em suporte técnico e resolução de problemas, atualmente sou estaudante de Engenharia de Software na Universidade Católica de Brasília.
 
 ### 🔗 Conecte-se
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-ageu-rodrigues-da-silva/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ageursilva)
+<a href="https://ageu.tech//"><img alt="Website" src="https://img.shields.io/badge/Website-ageu.tech-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/ageursilva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ageu%20Silva-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ageu13silva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ageu13silva@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ### 🚀 Projeto em Destaque
 - **[Ageu Blog](https://github.com/Ageursilva/ageublog)**: Este é o modelo que desenvolvi para o meu ["Jardim Digital"](https://weeklymusings.net/weekly-musings-092) uso ele em meu [blog](https://ageu.tech/) pessoal. A ideia aqui é que você possa utilizar e aprimorar para o seu uso. Tentei criar algo clean, simples e visualmente agradável para que qualquer pessoa possa usar. 
-
 
 ### 🛠️ Tecnologias
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
@@ -29,10 +29,6 @@ Sou apaixonado por tecnologia e sempre em busca de aprender novas habilidades. S
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-
-### 📫 Contato
-- E-mail: ageu13silva@gmail.com
 
 ---
 
