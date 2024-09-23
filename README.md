@@ -9,7 +9,8 @@ Sou apaixonado por tecnologia e sempre em busca de aprender novas habilidades. S
 <a href="mailto:ageu13silva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ageu13silva@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ### 🚀 Projeto em Destaque
-- **[Ageu Blog](https://github.com/Ageursilva/ageublog)**: Este é o modelo que desenvolvi para o meu ["Jardim Digital"](https://weeklymusings.net/weekly-musings-092) uso ele em meu [blog](https://ageu.tech/) pessoal. A ideia aqui é que você possa utilizar e aprimorar para o seu uso. Tentei criar algo clean, simples e visualmente agradável para que qualquer pessoa possa usar. 
+- **[Ageu Blog](https://github.com/Ageursilva/ageublog)**: Este é o modelo que desenvolvi para o meu ["Jardim Digital"](https://weeklymusings.net/weekly-musings-092) uso ele em meu [blog](https://ageu.tech/) pessoal. A ideia aqui é que você possa utilizar e aprimorar para o seu uso. Tentei criar algo clean, simples e visualmente agradável para que qualquer pessoa possa usar.
+-  **[Eu Nunca!](https://github.com/Ageursilva/EuNunca)**:Este é um aplicativo simples do jogo "Eu Nunca" desenvolvido com Kivy e KivyMD, ideal para animar suas festas e reuniões com amigos!. 
 
 ### 🛠️ Tecnologias
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
