@@ -1,7 +1,7 @@
 ## 👽 Olá, bem vindo, fique à vontade!
 
 ### 👨‍💻 Sobre mim
-Sou apaixonado por tecnologia e sempre em busca de aprender novas habilidades. Sou Analista de Suporte Técnico especializado em ERP na TOTVS, com ampla experiência em suporte técnico e resolução de problemas, atualmente sou estaudante de Engenharia de Software na Universidade Católica de Brasília.
+Sou apaixonado por tecnologia e sempre em busca de aprender novas habilidades. Sou Analista de Suporte Técnico especializado em ERP na TOTVS, com ampla experiência em suporte técnico e resolução de problemas, atualmente sou estudante de Engenharia de Software na Universidade Católica de Brasília.
 
 ### 🔗 Conecte-se
 <a href="https://ageu.tech//"><img alt="Website" src="https://img.shields.io/badge/Website-ageu.tech-blue?style=flat-square&logo=google-chrome"></a>
