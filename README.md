@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Ageu Silva! 👋</h1>
+<h1 align="center">Olá, sou Ageu Silva!</h1>
 <p align="center">
   <em>Profissional de tecnologia com 5+ anos de experiência em ambientes corporativos, unindo um sólido background em Suporte Técnico ERP e Infraestrutura com uma paixão por desenvolvimento de software e garantia de qualidade.</em>
 </p>
@@ -10,17 +10,7 @@
 
 ---
 
-### 💡 Sobre Mim
-
-Com uma carreira consolidada em suporte a sistemas críticos como ERPs da TOTVS e infraestrutura Microsoft, desenvolvi uma profunda compreensão das necessidades do negócio e das dores do usuário final. Hoje, canalizo essa experiência para o mundo do desenvolvimento e QA.
-
-- 🔭 Atualmente, estou focado em aplicar meus conhecimentos em **Python**, **JavaScript** e **SQL** para construir e testar soluções robustas e seguras.
-- 🌱 Aprimorando minhas habilidades em arquiteturas de **API REST com Node.js e Flask**, e explorando **automação de testes**.
-
-
----
-
-### 🛠️ Minha Stack de Tecnologias
+### Minha Stack de Tecnologias
 
 Aqui estão as ferramentas e tecnologias com as quais trabalho:
 
@@ -59,7 +49,7 @@ Aqui estão as ferramentas e tecnologias com as quais trabalho:
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 <table>
   <tr>
@@ -94,3 +84,15 @@ Aqui estão as ferramentas e tecnologias com as quais trabalho:
   <img src="https://github-readme-stats.vercel.app/api?username=Ageursilva&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ageursilva&layout=compact&theme=radical&hide_border=true&hide=html" alt="Linguagens mais usadas" />
 </p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=57F287&center=true&vCenter=true&repeat=false&width=435&lines=Spotify%3A+Playing+now+%F0%9F%8E%A7)](https://open.spotify.com/user/ageusilva13)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ageusilva13&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/ageusilva13)
+
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=ageusilva13" target="_blank" rel="noopener noreferrer">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ageusilva13&unique=true&count=7">
+</a>
+
+</div>
